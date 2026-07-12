@@ -1,18 +1,16 @@
-# Project Title
-
-> A short one-sentence description of the project.
+# cancer-immunology-gene-annotation
 
 ---
 
 # Overview
 
-Describe the scientific problem that this project addresses.
+In the world of cancer immunology, there are a large number of genes being expressed by both the host immune cells and the cancer cells within the context of the tumor microenvironment. Whole -omics methodologies are becoming standardized and used across many phenomena occurring in this microenvironment and producing a great deal of data. These studies are both braod, to capture the entire cellular picture in various conditions with the intention of comparison and discovery, and narrow, to capture the entire cellular picture in specific conditions in search for specific gene expression changes. Both of these studies share the creation of an abundance of gene information that is difficult to approach. This pipeline is an attempt to automate the generation of all available gene annotation information for a set of genes provided by the user. It will serve as a functional part of a larger pipeline in the future and will be under development.
 
-Include:
+---
 
-* Why the project exists
-* Biological or computational motivation
-* Overall objectives
+# Databases
+
+* mygene
 
 ---
 
@@ -20,34 +18,18 @@ Include:
 
 ## Primary Goals
 
-* Replicate the published computational analysis.
-* Produce reproducible and well-documented code.
-* Understand every step of the analysis.
-* Build reusable software components.
+* Generate a pipeline capable of producing gene annotation files or Python-ready variables for downstream analysis.
 
 ## Secondary Goals
 
-* Extend the original methodology.
-* Improve computational workflow.
-* Add new analyses or visualizations.
-
----
-
-# Paper Information
-
-**Title:**
-
-**Authors:**
-
-**Journal:**
-
-**Year:**
-
-**DOI:**
+* Utilize ChatGPT and Codex in order to learn optimizing strategies, notebook formatting, and more in an avenue to produce higher quality pipelines using best practices that I otherwise have not been taught or have not found a comprehensive resource.
 
 ---
 
 # Repository Structure
+
+* pending...
+* much of the source code was written for a single analysis. This structure will change in order to convert functions to scripts to be utilized across pipelines.
 
 ```text
 project/
@@ -76,54 +58,11 @@ conda activate <environment-name>
 
 Typical workflow:
 
-1. Download raw data.
-2. Place data in `data/raw`.
-3. Execute notebooks in numerical order.
-4. Verify published results.
-5. Implement project extensions.
-6. Export figures and tables.
-
----
-
-# Reproducibility
-
-This repository is designed to produce reproducible computational analyses.
-
-Raw data are never modified.
-
-All processed data are generated from the original source files.
-
----
-
-# Project Status
-
-* [ ] Repository initialized
-* [ ] Environment created
-* [ ] Paper added
-* [ ] Data imported
-* [ ] Figure 1 replicated
-* [ ] Figure 2 replicated
-* [ ] Full replication complete
-* [ ] Extensions implemented
-
----
-
-# Documentation
-
-Additional documentation is available in:
-
-* `docs/replication_journal.md`
-* `docs/assumptions.md`
-* `docs/methods_notes.md`
+1. text
+2. text
 
 ---
 
 # License
 
 Specify the project license here.
-
----
-
-# Acknowledgements
-
-Acknowledge the original authors and cite the publication appropriately.
