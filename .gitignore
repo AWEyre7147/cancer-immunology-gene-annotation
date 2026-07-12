@@ -1,0 +1,156 @@
+# =====================================================
+
+# Research Project .gitignore
+
+# Designed for Python, JupyterLab, Conda, and GitHub
+
+# =====================================================
+
+#############################
+
+# Python
+
+#############################
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+#############################
+
+# Jupyter
+
+#############################
+
+.ipynb_checkpoints/
+
+#############################
+
+# Virtual Environments
+
+#############################
+
+.venv/
+venv/
+env/
+
+#############################
+
+# Conda
+
+#############################
+
+.conda/
+
+#############################
+
+# IDEs
+
+#############################
+
+.vscode/
+.idea/
+
+#############################
+
+# Operating System
+
+#############################
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+#############################
+
+# Logs
+
+#############################
+
+*.log
+
+#############################
+
+# Temporary Files
+
+#############################
+
+*.tmp
+*.bak
+*.swp
+
+#############################
+
+# Test / Coverage
+
+#############################
+
+.pytest_cache/
+.coverage
+htmlcov/
+
+#############################
+
+# Build Artifacts
+
+#############################
+
+build/
+dist/
+*.egg-info/
+
+#############################
+
+# Research Outputs
+
+#############################
+
+results/logs/*
+!results/logs/.gitkeep
+
+#############################
+
+# Data
+
+#############################
+
+# Never commit large raw datasets
+
+data/raw/*
+!data/raw/.gitkeep
+
+# Never commit processed datasets by default
+
+data/processed/*
+!data/processed/.gitkeep
+
+#############################
+
+# Secrets
+
+#############################
+
+.env
+.env.*
+*.key
+*.pem
+*.token
+
+#############################
+
+# Optional Large Files
+
+#############################
+
+*.h5
+*.hdf5
+*.loom
+*.bam
+*.sam
+*.fastq
+*.fastq.gz
+*.fq.gz
+*.vcf
+*.vcf.gz
+*.tar.gz
+*.zip

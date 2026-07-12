@@ -1,0 +1,48 @@
+name: research
+
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+
+dependencies:
+  - python
+  - pip
+
+  # Jupyter
+  - jupyterlab
+  - notebook
+  - ipykernel
+
+  # Data Science
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - plotly
+  - openpyxl
+
+  # Statistics
+  - scikit-learn
+  - statsmodels
+
+  # Bioinformatics
+  - biopython
+
+  # Utilities
+  - tqdm
+  - pyyaml
+  - requests
+
+  # Testing
+  - pytest
+
+  # Formatting
+  - black
+  - ruff
+
+  # Git
+  - git
+
+  - pip:
+      - jupyterlab-git

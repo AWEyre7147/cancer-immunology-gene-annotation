@@ -1,0 +1,9 @@
+* text=auto
+
+*.ipynb text
+
+*.py text
+
+*.md text
+
+*.yml text
