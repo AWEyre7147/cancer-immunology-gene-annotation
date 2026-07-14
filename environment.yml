@@ -45,4 +45,6 @@ dependencies:
   - git
 
   - pip:
+      - gprofiler-official
+      - mygene
       - jupyterlab-git

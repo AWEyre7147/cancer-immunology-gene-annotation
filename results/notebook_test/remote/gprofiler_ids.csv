@@ -1,0 +1,52 @@
+incoming,converted,n_incoming,n_converted,name,description,namespaces,query
+Tradd,ENSMUSG00000031887,1,1,Tradd,TNFRSF1A-associated via death domain [Source:MGI Symbol;Acc:MGI:109200],"ENTREZGENE,MGI,UNIPROT_GN,WIKIGENE",query_1
+Tnfrsf1a,ENSMUSG00000030341,2,1,Tnfrsf1a,"tumor necrosis factor receptor superfamily, member 1a [Source:MGI Symbol;Acc:MGI:1314884]","ENTREZGENE,MGI,UNIPROT_GN,WIKIGENE",query_1
+Ado,ENSMUSG00000057134,3,1,Ado,2-aminoethanethiol dioxygenase [Source:MGI Symbol;Acc:MGI:2685083],"ENTREZGENE,MGI,UNIPROT_GN,WIKIGENE",query_1
+Zfx,ENSMUSG00000079509,4,1,Zfx,zinc finger protein X-linked [Source:MGI Symbol;Acc:MGI:99211],"ENTREZGENE,MGI,UNIPROT_GN,WIKIGENE",query_1
+Fadd,ENSMUSG00000031077,5,1,Fadd,Fas associated via death domain [Source:MGI Symbol;Acc:MGI:109324],"ENTREZGENE,MGI,UNIPROT_GN,WIKIGENE",query_1
+Ptbp1,ENSMUSG00000006498,6,1,Ptbp1,polypyrimidine tract binding protein 1 [Source:MGI Symbol;Acc:MGI:97791],"ENTREZGENE,MGI,UNIPROT_GN,WIKIGENE",query_1
+Casc3,ENSMUSG00000078676,7,1,Casc3,exon junction complex subunit [Source:MGI Symbol;Acc:MGI:2179723],"ENTREZGENE,MGI,UNIPROT_GN,WIKIGENE",query_1
+Jak1,ENSMUSG00000028530,8,1,Jak1,Janus kinase 1 [Source:MGI Symbol;Acc:MGI:96628],"ENTREZGENE,MGI,UNIPROT_GN,WIKIGENE",query_1
+Mertk,ENSMUSG00000014361,9,1,Mertk,MER proto-oncogene tyrosine kinase [Source:MGI Symbol;Acc:MGI:96965],"ENTREZGENE,MGI,UNIPROT_GN,WIKIGENE",query_1
+Casp8,ENSMUSG00000026029,10,1,Casp8,caspase 8 [Source:MGI Symbol;Acc:MGI:1261423],"ENTREZGENE,MGI,UNIPROT_GN,WIKIGENE",query_1
+Usp6nl,ENSMUSG00000039046,11,1,Usp6nl,USP6 N-terminal like [Source:MGI Symbol;Acc:MGI:2138893],"ENTREZGENE,MGI,UNIPROT_GN,WIKIGENE",query_1
+Abat,ENSMUSG00000057880,12,1,Abat,4-aminobutyrate aminotransferase [Source:MGI Symbol;Acc:MGI:2443582],"ENTREZGENE,MGI,UNIPROT_GN,WIKIGENE",query_1
+Sqstm1,ENSMUSG00000015837,13,1,Sqstm1,sequestosome 1 [Source:MGI Symbol;Acc:MGI:107931],"ENTREZGENE,MGI,UNIPROT_GN,WIKIGENE",query_1
+Bid,ENSMUSG00000004446,14,1,Bid,BH3 interacting domain death agonist [Source:MGI Symbol;Acc:MGI:108093],"ENTREZGENE,MGI,UNIPROT_GN,WIKIGENE",query_1
+Vmn1r87,ENSMUSG00000070815,15,1,Vmn1r87,vomeronasal 1 receptor 87 [Source:MGI Symbol;Acc:MGI:2159698],"ENTREZGENE,MGI,UNIPROT_GN,WIKIGENE",query_1
+Smg6,ENSMUSG00000038290,16,1,Smg6,SMG6 nonsense mediated mRNA decay factor [Source:MGI Symbol;Acc:MGI:2144117],"ENTREZGENE,MGI,UNIPROT_GN,WIKIGENE",query_1
+Cbfb,ENSMUSG00000031885,17,1,Cbfb,core binding factor beta [Source:MGI Symbol;Acc:MGI:99851],"ENTREZGENE,MGI,UNIPROT_GN,WIKIGENE",query_1
+Egln1,ENSMUSG00000031987,18,1,Egln1,egl-9 family hypoxia-inducible factor 1 [Source:MGI Symbol;Acc:MGI:1932286],"ENTREZGENE,MGI,UNIPROT_GN,WIKIGENE",query_1
+Ifngr1,ENSMUSG00000020009,19,1,Ifngr1,interferon gamma receptor 1 [Source:MGI Symbol;Acc:MGI:107655],"ENTREZGENE,MGI,UNIPROT_GN,WIKIGENE",query_1
+AU022751,None,20,1,None,None,,query_1
+Zfp637,ENSMUSG00000059689,21,1,Zfp637,zinc finger protein 637 [Source:MGI Symbol;Acc:MGI:2448537],"ENTREZGENE,MGI,UNIPROT_GN,WIKIGENE",query_1
+Pdhx,ENSMUSG00000010914,22,1,Pdhx,"pyruvate dehydrogenase complex, component X [Source:MGI Symbol;Acc:MGI:1351627]","ENTREZGENE,MGI,UNIPROT_GN,WIKIGENE",query_1
+Scarf2,ENSMUSG00000012017,23,1,Scarf2,"scavenger receptor class F, member 2 [Source:MGI Symbol;Acc:MGI:1858430]","ENTREZGENE,MGI,UNIPROT_GN,WIKIGENE",query_1
+Ift140,ENSMUSG00000024169,24,1,Ift140,intraflagellar transport 140 [Source:MGI Symbol;Acc:MGI:2146906],"ENTREZGENE,MGI,UNIPROT_GN,WIKIGENE",query_1
+Nudt11,ENSMUSG00000073293,25,1,Nudt10,nudix hydrolase 10 [Source:MGI Symbol;Acc:MGI:2147931],"ENTREZGENE,MGI,UNIPROT_GN,WIKIGENE",query_1
+Nudt11,ENSMUSG00000073295,25,2,Nudt11,nudix hydrolase 11 [Source:MGI Symbol;Acc:MGI:1930957],"ENTREZGENE,MGI,UNIPROT_GN,WIKIGENE",query_1
+Myot,ENSMUSG00000024471,26,1,Myot,myotilin [Source:MGI Symbol;Acc:MGI:1889800],"ENTREZGENE,MGI,UNIPROT_GN,WIKIGENE",query_1
+Notch4,ENSMUSG00000015468,27,1,Notch4,notch 4 [Source:MGI Symbol;Acc:MGI:107471],"ENTREZGENE,MGI,UNIPROT_GN,WIKIGENE",query_1
+Tes,ENSMUSG00000029552,28,1,Tes,testin LIM domain protein [Source:MGI Symbol;Acc:MGI:105081],"ENTREZGENE,MGI,UNIPROT_GN,WIKIGENE",query_1
+Aldh5a1,ENSMUSG00000035936,29,1,Aldh5a1,"aldhehyde dehydrogenase family 5, subfamily A1 [Source:MGI Symbol;Acc:MGI:2441982]","ENTREZGENE,MGI,UNIPROT_GN,WIKIGENE",query_1
+Cdkl3,ENSMUSG00000020389,30,1,Cdkl3,cyclin dependent kinase like 3 [Source:MGI Symbol;Acc:MGI:2388268],"ENTREZGENE,MGI,UNIPROT_GN,WIKIGENE",query_1
+Znhit6,ENSMUSG00000074182,31,1,Znhit6,"zinc finger, HIT type 6 [Source:MGI Symbol;Acc:MGI:1916996]","ENTREZGENE,MGI,UNIPROT_GN,WIKIGENE",query_1
+Fam26f,None,32,1,None,None,,query_1
+Kcng1,ENSMUSG00000074575,33,1,Kcng1,"potassium voltage-gated channel, subfamily G, member 1 [Source:MGI Symbol;Acc:MGI:3616086]","ENTREZGENE,MGI,UNIPROT_GN,WIKIGENE",query_1
+Gimap7,ENSMUSG00000043931,34,1,Gimap7,"GTPase, IMAP family member 7 [Source:MGI Symbol;Acc:MGI:1349657]","ENTREZGENE,MGI,UNIPROT_GN,WIKIGENE",query_1
+Corin,ENSMUSG00000005220,35,1,Corin,"corin, serine peptidase [Source:MGI Symbol;Acc:MGI:1349451]","ENTREZGENE,MGI,UNIPROT_GN,WIKIGENE",query_1
+Sec14l2,ENSMUSG00000003585,36,1,Sec14l2,SEC14-like lipid binding 2 [Source:MGI Symbol;Acc:MGI:1915065],"ENTREZGENE,MGI,UNIPROT_GN,WIKIGENE",query_1
+Vcp,ENSMUSG00000028452,37,1,Vcp,valosin containing protein [Source:MGI Symbol;Acc:MGI:99919],"ENTREZGENE,MGI,UNIPROT_GN,WIKIGENE",query_1
+Dok4,ENSMUSG00000040631,38,1,Dok4,docking protein 4 [Source:MGI Symbol;Acc:MGI:2148865],"ENTREZGENE,MGI,UNIPROT_GN,WIKIGENE",query_1
+Ces3a,ENSMUSG00000069922,39,1,Ces3a,carboxylesterase 3A [Source:MGI Symbol;Acc:MGI:102773],"ENTREZGENE,MGI,UNIPROT_GN,WIKIGENE",query_1
+Zfp703,ENSMUSG00000085795,40,1,Zfp703,zinc finger protein 703 [Source:MGI Symbol;Acc:MGI:2662729],"ENTREZGENE,MGI,UNIPROT_GN,WIKIGENE",query_1
+Smg7,ENSMUSG00000042772,41,1,Smg7,SMG7 nonsense mediated mRNA decay factor [Source:MGI Symbol;Acc:MGI:2682334],"ENTREZGENE,MGI,UNIPROT_GN,WIKIGENE",query_1
+Rabl3,ENSMUSG00000022827,42,1,Rabl3,"RAB, member RAS oncogene family-like 3 [Source:MGI Symbol;Acc:MGI:1914907]","ENTREZGENE,MGI,UNIPROT_GN,WIKIGENE",query_1
+Otx2,ENSMUSG00000021848,43,1,Otx2,orthodenticle homeobox 2 [Source:MGI Symbol;Acc:MGI:97451],"ENTREZGENE,MGI,UNIPROT_GN,WIKIGENE",query_1
+Heph,ENSMUSG00000031209,44,1,Heph,hephaestin [Source:MGI Symbol;Acc:MGI:1332240],"ENTREZGENE,MGI,UNIPROT_GN,WIKIGENE",query_1
+Phex,ENSMUSG00000057457,45,1,Phex,"phosphate regulating endopeptidase homolog, X-linked [Source:MGI Symbol;Acc:MGI:107489]","ENTREZGENE,MGI,UNIPROT_GN,WIKIGENE",query_1
+Ppp6r3,ENSMUSG00000024908,46,1,Ppp6r3,"protein phosphatase 6, regulatory subunit 3 [Source:MGI Symbol;Acc:MGI:1921807]","ENTREZGENE,MGI,UNIPROT_GN,WIKIGENE",query_1
+Zfp1,ENSMUSG00000055835,47,1,Zfp1,zinc finger protein 1 [Source:MGI Symbol;Acc:MGI:99154],"ENTREZGENE,MGI,UNIPROT_GN,WIKIGENE",query_1
+Mettl4,ENSMUSG00000055660,48,1,Mettl4,"methyltransferase 4, N6-adenosine [Source:MGI Symbol;Acc:MGI:1924031]","ENTREZGENE,MGI,UNIPROT_GN,WIKIGENE",query_1
+Tigit,ENSMUSG00000071552,49,1,Tigit,T cell immunoreceptor with Ig and ITIM domains [Source:MGI Symbol;Acc:MGI:3642260],"ENTREZGENE,MGI,UNIPROT_GN,WIKIGENE",query_1
+Tex24,ENSMUSG00000071138,50,1,Tex24,testis expressed gene 24 [Source:MGI Symbol;Acc:MGI:1921539],"ENTREZGENE,MGI,WIKIGENE",query_1

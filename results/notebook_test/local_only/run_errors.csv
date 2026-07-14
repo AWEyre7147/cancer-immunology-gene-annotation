@@ -1,0 +1,3 @@
+step,error
+hgnc,Mouse HGNC annotation requires human orthologs. Enable remote services or provide human input genes.
+ligand_receptor,Mouse ligand-receptor annotation requires human orthologs. Enable remote services or provide human input genes.
