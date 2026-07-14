@@ -2,15 +2,24 @@
 
 ---
 
+* The current iteration is working and is capable of inputting a .csv of gene symbols and outputting all annotations.
+* It has only been tested with mouse gene symbol inputs
+* The database search functionality of g:Profiler in order to produce an abundance of pathway-level annotations has not been re-implemented, yet
+
+---
+
 # Overview
 
-In the world of cancer immunology, there are a large number of genes being expressed by both the host immune cells and the cancer cells within the context of the tumor microenvironment. Whole -omics methodologies are becoming standardized and used across many phenomena occurring in this microenvironment and producing a great deal of data. These studies are both braod, to capture the entire cellular picture in various conditions with the intention of comparison and discovery, and narrow, to capture the entire cellular picture in specific conditions in search for specific gene expression changes. Both of these studies share the creation of an abundance of gene information that is difficult to approach. This pipeline is an attempt to automate the generation of all available gene annotation information for a set of genes provided by the user. It will serve as a functional part of a larger pipeline in the future and will be under development.
+In the world of cancer immunology, there are a large number of genes being expressed by both the host immune cells and the cancer cells within the context of the tumor microenvironment. Whole -omics methodologies are becoming standardized and used across many phenomena occurring in this microenvironment and producing a great deal of data. These studies are both broadd, to capture the entire cellular picture in various conditions with the intention of comparison and discovery, and narrow, to capture the entire cellular picture in specific conditions in search for specific gene expression changes. Both of these studies share the creation of an abundance of gene information that is difficult to approach. This pipeline is an attempt to automate the generation of all available gene annotation information for a set of genes provided by the user. It will serve as a functional part of a larger pipeline in the future and will be under development.
 
 ---
 
 # Databases
 
 * mygene
+* enrichr databases accessed through g:Profiler
+* Human HGNC
+* Ligand-Receptor
 
 ---
 
